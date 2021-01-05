@@ -58,4 +58,30 @@ font-weight: 700;
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
-}   
+}  
+.single-exprience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+}
+.exprience-area{
+    background-color: white;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: liner-gradient(180deg,lightSalmon, tomato);
+    border-image-slice: 1;
+
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan)
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
